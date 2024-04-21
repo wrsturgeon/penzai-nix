@@ -1,0 +1,27 @@
+{
+  "nodes": {
+    "penzai-src": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1713542071,
+        "narHash": "sha256-nIqZuMNvvAO3lavtNUbu3SFBs6vI7ADO6jAyMu12b1g=",
+        "owner": "google-deepmind",
+        "repo": "penzai",
+        "rev": "04dc1701d1ab53d0705f89e7353d67647aa0ca02",
+        "type": "github"
+      },
+      "original": {
+        "owner": "google-deepmind",
+        "repo": "penzai",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "penzai-src": "penzai-src"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
